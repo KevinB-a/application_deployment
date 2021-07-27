@@ -1,3 +1,5 @@
 env/*
-api/__pycache__/*
-utils/__pycache/*
+api_dir/__pycache__/*
+utils/__pycache__/*
+api_dir/config.py
+monitoring/__pycache__/*
